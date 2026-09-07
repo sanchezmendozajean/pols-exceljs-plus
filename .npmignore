@@ -2,3 +2,4 @@ test/
 src/
 .vscode/
 tsconfig.json
+.npmignore
